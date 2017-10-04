@@ -1,0 +1,15 @@
+{
+    "name": "dev/local",
+    "authors": [
+        {
+            "name": "Serg Rogochiy",
+            "email": "john@example.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
